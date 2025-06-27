@@ -1,15 +1,46 @@
 .skill-container {
-    border: solid tan;
+    border: solid rgb(105, 162, 241);
     width: 500px;
     margin-left: auto;
     margin-right: auto;
     padding: 1rem;
     margin-bottom: 10px;
-    background-color: bisque;
+    background-color: rgb(58, 58, 65);
+}
+
+
+.skill-container2 {
+    border: solid rgb(84, 233, 211);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: rgb(216, 219, 231);
+}
+
+
+.skill-container3 {
+    border: solid rgb(49, 162, 228);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: rgb(213, 238, 234);
 }
 
 .center{
-    text-align: center
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center-left{
+    text-align: left
+}
+
+.center-right{
+    text-align: right
 }
 
 h1{
@@ -18,5 +49,16 @@ h1{
     color: blueviolet;
     text-decoration: underline;
 }
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(225, 125, 247);
+}
+
+.bee{
+    color: rgb(148, 199, 247);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 
 
